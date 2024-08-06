@@ -1,4 +1,4 @@
-## Super Pipe Bros
+## Super Mario Bros
 
 Una pequeña replica del juego super mario bros en html, css y javascript. Para poner en practica los conceptos basicos de la programación de videojuegos.
 
